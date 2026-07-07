@@ -19,7 +19,7 @@
 </div>
 
 ## About
-LocalDevVPN is a developer tool for creating and managing local network tunnels directly on iOS. It gives you a secure, isolated virtual interface for testing and debugging without sending traffic to external servers.
+LocalDevVPN is a developer tool for creating and managing local network tunnels directly on iOS. It gives you a secure, isolated virtual interface for testing and debugging without sending traffic to external servers.(I use it)
 
 Key Features:
   - Local network tunneling: spin up a dedicated virtual interface for development and testing
